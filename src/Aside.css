@@ -1,0 +1,24 @@
+aside {
+    height: 38vh;
+    background-color: #666666;
+    width: 12%;
+    display: block;
+    margin-right: 0%;
+    float: left;
+}
+h2.aside {
+    color: aliceblue;
+}
+p.aside {
+    width: 100%;
+    background-color: #6622aa;
+    border-width: 3px;
+    border-style: inset;
+    border-radius: 20%;
+    color: #33ff11;
+    font-family: "System";
+    font-size: 3vh;
+}
+a.aside {
+    background-color: sienna;
+}

@@ -1,0 +1,9 @@
+footer {
+    background-color: black;
+    width: 100%;
+    display: inline-block;
+}
+p.footer {
+    font-size: 2vh;
+    color: #ffffff;    
+}

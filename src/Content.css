@@ -1,0 +1,33 @@
+article {
+    
+    width:20%;
+    background-color: #aaaaaa;
+    height: 37vh;
+    margin-right: 1%;
+    display: inline-block;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: aqua;
+    
+}
+content {
+    width: 500px;
+    height: 1000px;
+    background-color: red;
+}
+h2.article {
+    color: #4444aa;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;  
+}
+p.article {
+    color: #2222ff;
+}
+button.article {
+    width: 100%;
+    height: 15%;
+    background-color: #77aaff;
+    font-size: 3vh;
+    font-family: 'Impact';
+    color: #cc7700;
+}
