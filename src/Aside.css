@@ -1,5 +1,7 @@
 aside {
-    height: 38vh;
+    position: absolute;
+    top: 10%;
+    height: 75%;
     background-color: #666666;
     width: 12%;
     display: block;

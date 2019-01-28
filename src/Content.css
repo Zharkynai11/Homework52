@@ -11,9 +11,13 @@ article {
     
 }
 content {
-    width: 500px;
-    height: 1000px;
-    background-color: red;
+    position: absolute;
+    width: 88%;
+    top: 10%;
+    left: 12%;
+    height: 75%;
+    background-color: #bbbbbb;
+    float: right;
 }
 h2.article {
     color: #4444aa;

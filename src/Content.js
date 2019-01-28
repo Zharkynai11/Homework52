@@ -13,12 +13,12 @@ function Flight(props) {
             );
     }	
 const flights = (
-        <div>
+        <content>
             <Flight from="Бишкек" to="Лондон" number="59187364" cost="100$" date="12.02.2020"/>
             <Flight from="Бишкек" to="Астана" number="86428361" cost="80$" date="30.06.2019"/>
             <Flight from="Лондон" to="Берлин" number="43268108" cost="70$" date="01.01.2021"/>
             <Flight from="Пекин" to="Нью-Йорк" number="63278642" cost="250$" date="22.02.2022"/>
-        </div>
+        </content>
     );
 
 class Content extends Component {
